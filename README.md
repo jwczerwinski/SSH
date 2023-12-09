@@ -9,8 +9,6 @@ Configure SW2 with what is necessary for a secure SSH remote connection through 
 
 - <b>Cisco IOS C2960 Software, Version 15.0(2)SE4</b> <br />
 
-[Software Configuration Guide](https://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst3650/software/release/16-3/configuration_guide/b_163_consolidated_3650_cg.html)<br />
-
 <h2>Diagram </h2>
 <img src="https://i.imgur.com/SL5T1cg.png" height="80%" width="80%" />
 
