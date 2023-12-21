@@ -13,7 +13,7 @@ Configure SW2 with what is necessary for a secure SSH remote connection through 
 <img src="https://i.imgur.com/SL5T1cg.png" height="80%" width="80%" />
 
 <h2>Walk-through:</h2>
-Configure hostname, enable secret password, user with a username and a password, SVI VLAN 1 IP address, and default gateway. Verify results with 'show run'.
+Configure hostname, enable secret password, user with a username and a password, SVI VLAN 1 IP address, and default gateway. Verify results with 'show run'.<br />
 Switch(config)#hostname SW2<br />
 SW2(config)#enable secret ccna<br />
 SW2(config)#username jon secret ccna<br />
